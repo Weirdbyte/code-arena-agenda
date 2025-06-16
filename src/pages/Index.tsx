@@ -177,7 +177,7 @@ const Index = () => {
         <div className="mt-16 text-center text-sm text-muted-foreground">
           <p>Data refreshed automatically. Times shown in your local timezone.</p>
           <p className="mt-2">
-            Platforms: Codeforces (live API) • CodeChef & LeetCode (demo data)
+            Platforms: Codeforces (live API) • CodeChef, LeetCode & AtCoder (realistic schedule-based data)
           </p>
         </div>
       </div>
